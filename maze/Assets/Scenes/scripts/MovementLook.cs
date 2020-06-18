@@ -16,10 +16,10 @@ public class MovementLook : MonoBehaviour
         var mousePos = Input.mousePosition;
         var mousePosWorld = Camera.main.ScreenToWorldPoint(mousePos);
 
-        var timToMousePosistion = mousePosWorld - transform.position;
-        timToMousePosistion.z = 0;
+        var chickToMousePosistion = mousePosWorld - transform.position;
+        chickToMousePosistion.z = 0;
 
-        transform.right = timToMousePosistion;
+        transform.right = chickToMousePosistion;
 
 
     }
