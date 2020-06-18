@@ -14,7 +14,7 @@ public class EnemyAi : MonoBehaviour
 
     public float speed = 5;
 
-    public float range = 15;
+    public float range = 100;
 
     public LayerMask mask;
     
@@ -47,7 +47,7 @@ public class EnemyAi : MonoBehaviour
             }
             
 
-            if (TargetAquired())
+            /*if (TargetAquired())
             {
                 currentState = "Attack";
             }
@@ -57,7 +57,7 @@ public class EnemyAi : MonoBehaviour
                 {
                     currentState = "Patrol";
                 }
-            }           
+            } */          
 
         }
     }
