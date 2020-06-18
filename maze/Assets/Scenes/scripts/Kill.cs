@@ -23,5 +23,9 @@ public class Kill : MonoBehaviour
             Destroy(this.gameObject);
             Destroy(other.gameObject);
         }
+        if (other.tag == "wall") 
+        {
+            Destroy(this.gameObject);
+        }
     } 
 }

@@ -20,7 +20,7 @@ public class shoot : MonoBehaviour
             //shoot 
             GameObject bullet = Instantiate(bulletPreFab, transform.position, transform.rotation);
             Rigidbody2D rigidbody = bullet.GetComponent<Rigidbody2D>();
-            rigidbody.velocity = bullet.transform.right * 10;
+            rigidbody.velocity = bullet.transform.right * 20;
 
             Destroy(bullet, 2);
 
