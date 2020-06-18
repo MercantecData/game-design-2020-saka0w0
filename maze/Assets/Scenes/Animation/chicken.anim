@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: hostages
+  m_Name: chicken
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -20,11 +20,13 @@ AnimationClip:
   m_PPtrCurves:
   - curve:
     - time: 0
-      value: {fileID: 21300000, guid: de4a4a96a55c70543a0b4ca07b9905cf, type: 3}
-    - time: 0.6333333
-      value: {fileID: 21300000, guid: 6becadb61be197f44bb011ed649d3d5f, type: 3}
-    - time: 1.2333333
-      value: {fileID: 21300000, guid: de4a4a96a55c70543a0b4ca07b9905cf, type: 3}
+      value: {fileID: 21300000, guid: 4015c76d0a73bff44af1ba5f8dd6a2be, type: 3}
+    - time: 0.35
+      value: {fileID: 21300000, guid: 306334d7dea6f1d4e855ee8f901677ce, type: 3}
+    - time: 0.71666664
+      value: {fileID: 21300000, guid: 181eed0ba5ec37a428a5226a11f7d77e, type: 3}
+    - time: 1.0166667
+      value: {fileID: 21300000, guid: 4015c76d0a73bff44af1ba5f8dd6a2be, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -44,18 +46,19 @@ AnimationClip:
       customType: 23
       isPPtrCurve: 1
     pptrCurveMapping:
-    - {fileID: 21300000, guid: de4a4a96a55c70543a0b4ca07b9905cf, type: 3}
-    - {fileID: 21300000, guid: 6becadb61be197f44bb011ed649d3d5f, type: 3}
-    - {fileID: 21300000, guid: de4a4a96a55c70543a0b4ca07b9905cf, type: 3}
+    - {fileID: 21300000, guid: 4015c76d0a73bff44af1ba5f8dd6a2be, type: 3}
+    - {fileID: 21300000, guid: 306334d7dea6f1d4e855ee8f901677ce, type: 3}
+    - {fileID: 21300000, guid: 181eed0ba5ec37a428a5226a11f7d77e, type: 3}
+    - {fileID: 21300000, guid: 4015c76d0a73bff44af1ba5f8dd6a2be, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 1.25
+    m_StopTime: 1.0333333
     m_OrientationOffsetY: 0
     m_Level: 0
-    m_CycleOffset: 100
+    m_CycleOffset: 150
     m_HasAdditiveReferencePose: 0
     m_LoopTime: 1
     m_LoopBlend: 0
