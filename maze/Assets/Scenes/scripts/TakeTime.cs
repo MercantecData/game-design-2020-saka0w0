@@ -8,7 +8,7 @@ public class TakeTime : MonoBehaviour
     Text countDownText;
 
     float timer;
-    int countDownNumber = 150;
+    int countDownNumber = 200;
 
     public Text loseText;
 
