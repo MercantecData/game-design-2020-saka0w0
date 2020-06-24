@@ -20,7 +20,7 @@ public class start : MonoBehaviour
     IEnumerator startDelay()
     {
         Time.timeScale = 0;
-        float pauseTime = Time.realtimeSinceStartup + 11;
+        float pauseTime = Time.realtimeSinceStartup + 10;
         while (Time.realtimeSinceStartup < pauseTime) 
             yield return 0;
         startScreen.gameObject.SetActive(false);

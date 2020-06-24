@@ -19,7 +19,7 @@ public class MovementLook : MonoBehaviour
         var chickToMousePosistion = mousePosWorld - transform.position;
         chickToMousePosistion.z = 0;
 
-        transform.right = chickToMousePosistion;
+        transform.right = -chickToMousePosistion;
 
 
     }

@@ -132,7 +132,7 @@ GameObject:
   - component: {fileID: 5108617}
   - component: {fileID: 5108619}
   - component: {fileID: 5108618}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (19)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -240,7 +240,7 @@ GameObject:
   - component: {fileID: 9687057}
   - component: {fileID: 9687059}
   - component: {fileID: 9687058}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (6)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -348,7 +348,7 @@ GameObject:
   - component: {fileID: 10023783}
   - component: {fileID: 10023782}
   - component: {fileID: 10023781}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (55)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -456,7 +456,7 @@ GameObject:
   - component: {fileID: 17092166}
   - component: {fileID: 17092168}
   - component: {fileID: 17092167}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (63)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -564,7 +564,7 @@ GameObject:
   - component: {fileID: 36658089}
   - component: {fileID: 36658088}
   - component: {fileID: 36658087}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (93)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -672,7 +672,7 @@ GameObject:
   - component: {fileID: 42269027}
   - component: {fileID: 42269026}
   - component: {fileID: 42269025}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (41)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -780,7 +780,7 @@ GameObject:
   - component: {fileID: 49132417}
   - component: {fileID: 49132419}
   - component: {fileID: 49132418}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (21)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -989,7 +989,7 @@ GameObject:
   - component: {fileID: 55008154}
   - component: {fileID: 55008153}
   - component: {fileID: 55008152}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (6)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -1097,7 +1097,7 @@ GameObject:
   - component: {fileID: 61198267}
   - component: {fileID: 61198266}
   - component: {fileID: 61198265}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (99)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -1203,7 +1203,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 79493275}
-  m_Layer: 12
+  m_Layer: 11
   m_Name: Wavepoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1243,7 +1243,7 @@ GameObject:
   - component: {fileID: 81737877}
   - component: {fileID: 81737876}
   - component: {fileID: 81737875}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (125)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -1351,7 +1351,7 @@ GameObject:
   - component: {fileID: 83285228}
   - component: {fileID: 83285227}
   - component: {fileID: 83285226}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (76)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -1459,7 +1459,7 @@ GameObject:
   - component: {fileID: 95371181}
   - component: {fileID: 95371180}
   - component: {fileID: 95371179}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (114)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -1567,7 +1567,7 @@ GameObject:
   - component: {fileID: 105175011}
   - component: {fileID: 105175010}
   - component: {fileID: 105175009}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -1675,7 +1675,7 @@ GameObject:
   - component: {fileID: 121115834}
   - component: {fileID: 121115836}
   - component: {fileID: 121115835}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (40)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -1783,7 +1783,7 @@ GameObject:
   - component: {fileID: 129539112}
   - component: {fileID: 129539114}
   - component: {fileID: 129539113}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (45)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -1891,7 +1891,7 @@ GameObject:
   - component: {fileID: 141254304}
   - component: {fileID: 141254303}
   - component: {fileID: 141254302}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (86)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -1999,7 +1999,7 @@ GameObject:
   - component: {fileID: 150468810}
   - component: {fileID: 150468809}
   - component: {fileID: 150468808}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (112)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -2107,7 +2107,7 @@ GameObject:
   - component: {fileID: 152675034}
   - component: {fileID: 152675033}
   - component: {fileID: 152675032}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (88)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -2215,7 +2215,7 @@ GameObject:
   - component: {fileID: 152845857}
   - component: {fileID: 152845856}
   - component: {fileID: 152845855}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (56)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -2323,7 +2323,7 @@ GameObject:
   - component: {fileID: 166315396}
   - component: {fileID: 166315395}
   - component: {fileID: 166315394}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (95)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -2475,7 +2475,7 @@ GameObject:
   - component: {fileID: 175001758}
   - component: {fileID: 175001757}
   - component: {fileID: 175001756}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (120)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -2583,7 +2583,7 @@ GameObject:
   - component: {fileID: 176324919}
   - component: {fileID: 176324918}
   - component: {fileID: 176324917}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (96)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -2691,7 +2691,7 @@ GameObject:
   - component: {fileID: 176351940}
   - component: {fileID: 176351939}
   - component: {fileID: 176351938}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (73)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -2799,7 +2799,7 @@ GameObject:
   - component: {fileID: 177000902}
   - component: {fileID: 177000904}
   - component: {fileID: 177000903}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (54)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -2985,7 +2985,7 @@ GameObject:
   - component: {fileID: 198380189}
   - component: {fileID: 198380191}
   - component: {fileID: 198380190}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (134)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -3093,7 +3093,7 @@ GameObject:
   - component: {fileID: 217257736}
   - component: {fileID: 217257735}
   - component: {fileID: 217257734}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (8)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -3201,7 +3201,7 @@ GameObject:
   - component: {fileID: 217976833}
   - component: {fileID: 217976835}
   - component: {fileID: 217976834}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (133)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -3309,7 +3309,7 @@ GameObject:
   - component: {fileID: 220654995}
   - component: {fileID: 220654994}
   - component: {fileID: 220654993}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (97)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -3417,7 +3417,7 @@ GameObject:
   - component: {fileID: 228443218}
   - component: {fileID: 228443217}
   - component: {fileID: 228443216}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (42)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -3525,7 +3525,7 @@ GameObject:
   - component: {fileID: 236142014}
   - component: {fileID: 236142013}
   - component: {fileID: 236142012}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (22)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -3631,7 +3631,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 245139508}
-  m_Layer: 10
+  m_Layer: 9
   m_Name: ' hostages'
   m_TagString: hostages
   m_Icon: {fileID: 0}
@@ -3670,7 +3670,7 @@ GameObject:
   - component: {fileID: 247768042}
   - component: {fileID: 247768041}
   - component: {fileID: 247768043}
-  m_Layer: 10
+  m_Layer: 9
   m_Name: kyllingTwo (8)
   m_TagString: hostages
   m_Icon: {fileID: 0}
@@ -3797,7 +3797,7 @@ GameObject:
   - component: {fileID: 249924708}
   - component: {fileID: 249924710}
   - component: {fileID: 249924709}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (29)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -3905,7 +3905,7 @@ GameObject:
   - component: {fileID: 258500140}
   - component: {fileID: 258500139}
   - component: {fileID: 258500138}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (53)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -4013,7 +4013,7 @@ GameObject:
   - component: {fileID: 260964358}
   - component: {fileID: 260964357}
   - component: {fileID: 260964356}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (64)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -4121,7 +4121,7 @@ GameObject:
   - component: {fileID: 268217999}
   - component: {fileID: 268218001}
   - component: {fileID: 268218000}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (131)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -4229,7 +4229,7 @@ GameObject:
   - component: {fileID: 270158073}
   - component: {fileID: 270158072}
   - component: {fileID: 270158071}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (124)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -4337,7 +4337,7 @@ GameObject:
   - component: {fileID: 274772258}
   - component: {fileID: 274772257}
   - component: {fileID: 274772256}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (90)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -4445,7 +4445,7 @@ GameObject:
   - component: {fileID: 275796127}
   - component: {fileID: 275796129}
   - component: {fileID: 275796128}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (25)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -4553,7 +4553,7 @@ GameObject:
   - component: {fileID: 282034086}
   - component: {fileID: 282034085}
   - component: {fileID: 282034084}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (117)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -4661,7 +4661,7 @@ GameObject:
   - component: {fileID: 282781159}
   - component: {fileID: 282781158}
   - component: {fileID: 282781157}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (123)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -4769,7 +4769,7 @@ GameObject:
   - component: {fileID: 296286010}
   - component: {fileID: 296286009}
   - component: {fileID: 296286008}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (18)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -4877,7 +4877,7 @@ GameObject:
   - component: {fileID: 299458641}
   - component: {fileID: 299458640}
   - component: {fileID: 299458639}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (9)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -4985,7 +4985,7 @@ GameObject:
   - component: {fileID: 311964987}
   - component: {fileID: 311964989}
   - component: {fileID: 311964988}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (26)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -5093,7 +5093,7 @@ GameObject:
   - component: {fileID: 316196401}
   - component: {fileID: 316196403}
   - component: {fileID: 316196402}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (60)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -5201,7 +5201,7 @@ GameObject:
   - component: {fileID: 328569756}
   - component: {fileID: 328569758}
   - component: {fileID: 328569757}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (43)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -5310,7 +5310,7 @@ GameObject:
   - component: {fileID: 332905640}
   - component: {fileID: 332905639}
   - component: {fileID: 332905641}
-  m_Layer: 10
+  m_Layer: 9
   m_Name: kyllingTwo (9)
   m_TagString: hostages
   m_Icon: {fileID: 0}
@@ -5435,7 +5435,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 340800879}
-  m_Layer: 12
+  m_Layer: 11
   m_Name: Wavepoint6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5467,7 +5467,7 @@ GameObject:
   - component: {fileID: 342782008}
   - component: {fileID: 342782010}
   - component: {fileID: 342782009}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (46)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -5575,7 +5575,7 @@ GameObject:
   - component: {fileID: 345331728}
   - component: {fileID: 345331730}
   - component: {fileID: 345331729}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (64)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -5683,7 +5683,7 @@ GameObject:
   - component: {fileID: 367240549}
   - component: {fileID: 367240548}
   - component: {fileID: 367240547}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (103)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -5791,7 +5791,7 @@ GameObject:
   - component: {fileID: 377556614}
   - component: {fileID: 377556616}
   - component: {fileID: 377556615}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (11)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -5899,7 +5899,7 @@ GameObject:
   - component: {fileID: 388181175}
   - component: {fileID: 388181174}
   - component: {fileID: 388181173}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (126)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -6007,7 +6007,7 @@ GameObject:
   - component: {fileID: 389825963}
   - component: {fileID: 389825962}
   - component: {fileID: 389825961}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (70)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -6115,7 +6115,7 @@ GameObject:
   - component: {fileID: 391010632}
   - component: {fileID: 391010631}
   - component: {fileID: 391010630}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (80)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -6224,7 +6224,7 @@ GameObject:
   - component: {fileID: 400087603}
   - component: {fileID: 400087602}
   - component: {fileID: 400087604}
-  m_Layer: 10
+  m_Layer: 9
   m_Name: kyllingTwo (7)
   m_TagString: hostages
   m_Icon: {fileID: 0}
@@ -6351,7 +6351,7 @@ GameObject:
   - component: {fileID: 402552278}
   - component: {fileID: 402552277}
   - component: {fileID: 402552276}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (49)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -6459,7 +6459,7 @@ GameObject:
   - component: {fileID: 412166279}
   - component: {fileID: 412166278}
   - component: {fileID: 412166277}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (113)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -6567,7 +6567,7 @@ GameObject:
   - component: {fileID: 434538691}
   - component: {fileID: 434538693}
   - component: {fileID: 434538692}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (10)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -6675,7 +6675,7 @@ GameObject:
   - component: {fileID: 445868536}
   - component: {fileID: 445868538}
   - component: {fileID: 445868537}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (30)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -6783,7 +6783,7 @@ GameObject:
   - component: {fileID: 468864838}
   - component: {fileID: 468864840}
   - component: {fileID: 468864839}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (38)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -6891,7 +6891,7 @@ GameObject:
   - component: {fileID: 470916682}
   - component: {fileID: 470916681}
   - component: {fileID: 470916680}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (104)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -6999,7 +6999,7 @@ GameObject:
   - component: {fileID: 471106566}
   - component: {fileID: 471106568}
   - component: {fileID: 471106567}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (2)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -7107,7 +7107,7 @@ GameObject:
   - component: {fileID: 488442213}
   - component: {fileID: 488442215}
   - component: {fileID: 488442214}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (102)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -7215,7 +7215,7 @@ GameObject:
   - component: {fileID: 488716308}
   - component: {fileID: 488716310}
   - component: {fileID: 488716309}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (39)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -7323,7 +7323,7 @@ GameObject:
   - component: {fileID: 512151044}
   - component: {fileID: 512151043}
   - component: {fileID: 512151042}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (72)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -7528,7 +7528,7 @@ GameObject:
   - component: {fileID: 521533335}
   - component: {fileID: 521533334}
   - component: {fileID: 521533333}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (115)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -7636,7 +7636,7 @@ GameObject:
   - component: {fileID: 522822438}
   - component: {fileID: 522822437}
   - component: {fileID: 522822436}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (108)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -7744,7 +7744,7 @@ GameObject:
   - component: {fileID: 540729542}
   - component: {fileID: 540729541}
   - component: {fileID: 540729540}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (34)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -7852,7 +7852,7 @@ GameObject:
   - component: {fileID: 540919381}
   - component: {fileID: 540919383}
   - component: {fileID: 540919382}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (68)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -7960,7 +7960,7 @@ GameObject:
   - component: {fileID: 541469504}
   - component: {fileID: 541469506}
   - component: {fileID: 541469505}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (69)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -8068,7 +8068,7 @@ GameObject:
   - component: {fileID: 550546737}
   - component: {fileID: 550546739}
   - component: {fileID: 550546738}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (102)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -8177,7 +8177,7 @@ GameObject:
   - component: {fileID: 552694205}
   - component: {fileID: 552694206}
   - component: {fileID: 552694207}
-  m_Layer: 10
+  m_Layer: 9
   m_Name: kyllingTwo (6)
   m_TagString: hostages
   m_Icon: {fileID: 0}
@@ -8304,7 +8304,7 @@ GameObject:
   - component: {fileID: 554393955}
   - component: {fileID: 554393957}
   - component: {fileID: 554393956}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (41)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -8414,7 +8414,8 @@ GameObject:
   - component: {fileID: 579337671}
   - component: {fileID: 579337670}
   - component: {fileID: 579337673}
-  m_Layer: 11
+  - component: {fileID: 579337674}
+  m_Layer: 10
   m_Name: butcherFox
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -8549,6 +8550,181 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &579337674
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 579337668}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad9e85376a597504589033008ffc1c55, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bullet: {fileID: 1579406540}
+--- !u!1 &579511644
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 579511645}
+  - component: {fileID: 579511649}
+  - component: {fileID: 579511648}
+  - component: {fileID: 579511647}
+  - component: {fileID: 579511646}
+  - component: {fileID: 579511650}
+  m_Layer: 10
+  m_Name: butcherFox (4)
+  m_TagString: Enemy
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &579511645
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 579511644}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -11.4, y: 22, z: 9.980469}
+  m_LocalScale: {x: 1.8494562, y: 1.8393868, z: 1.8393868}
+  m_Children: []
+  m_Father: {fileID: 1544685162}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &579511646
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 579511644}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 761237ccfa41e684fbc6fc9951373201, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!61 &579511647
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 579511644}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.1, y: -0.05}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 2.8, y: 2.8}
+    newSize: {x: 2.8, y: 2.8}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 1
+  serializedVersion: 2
+  m_Size: {x: 2.6, y: 2.6}
+  m_EdgeRadius: 0
+--- !u!114 &579511648
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 579511644}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b44217c3a95ebd48a0a4f9f2b707193, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  waypoint1: {fileID: 1829710345}
+  waypoint2: {fileID: 1591856808}
+  speed: 5
+  range: 15
+  mask:
+    serializedVersion: 2
+    m_Bits: 0
+--- !u!212 &579511649
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 579511644}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300000, guid: 3368e2293eb256a49a448d0b76260155, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 2.8, y: 2.8}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!114 &579511650
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 579511644}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad9e85376a597504589033008ffc1c55, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bullet: {fileID: 1579406540}
 --- !u!1 &587170500
 GameObject:
   m_ObjectHideFlags: 0
@@ -8560,7 +8736,7 @@ GameObject:
   - component: {fileID: 587170501}
   - component: {fileID: 587170503}
   - component: {fileID: 587170502}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (22)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -8668,7 +8844,7 @@ GameObject:
   - component: {fileID: 596851415}
   - component: {fileID: 596851414}
   - component: {fileID: 596851413}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (92)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -8776,7 +8952,7 @@ GameObject:
   - component: {fileID: 598157106}
   - component: {fileID: 598157105}
   - component: {fileID: 598157104}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (33)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -8873,6 +9049,168 @@ Transform:
   m_Father: {fileID: 1177321393}
   m_RootOrder: 25
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &600954786
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 600954787}
+  - component: {fileID: 600954791}
+  - component: {fileID: 600954790}
+  - component: {fileID: 600954789}
+  - component: {fileID: 600954788}
+  - component: {fileID: 600954792}
+  m_Layer: 10
+  m_Name: butcherFox (5)
+  m_TagString: Enemy
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &600954787
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 600954786}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 4.4, y: -10.2, z: 9.980469}
+  m_LocalScale: {x: 1.8494562, y: 1.8393868, z: 1.8393868}
+  m_Children: []
+  m_Father: {fileID: 1544685162}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &600954788
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 600954786}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 761237ccfa41e684fbc6fc9951373201, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!61 &600954789
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 600954786}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.1, y: -0.05}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 2.8, y: 2.8}
+    newSize: {x: 2.8, y: 2.8}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 1
+  serializedVersion: 2
+  m_Size: {x: 2.6, y: 2.6}
+  m_EdgeRadius: 0
+--- !u!114 &600954790
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 600954786}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b44217c3a95ebd48a0a4f9f2b707193, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  waypoint1: {fileID: 1389724800}
+  waypoint2: {fileID: 340800879}
+  speed: 5
+  range: 15
+  mask:
+    serializedVersion: 2
+    m_Bits: 0
+--- !u!212 &600954791
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 600954786}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300000, guid: 3368e2293eb256a49a448d0b76260155, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 2.8, y: 2.8}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!114 &600954792
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 600954786}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad9e85376a597504589033008ffc1c55, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bullet: {fileID: 1579406540}
 --- !u!1 &602136173
 GameObject:
   m_ObjectHideFlags: 0
@@ -8884,7 +9222,7 @@ GameObject:
   - component: {fileID: 602136174}
   - component: {fileID: 602136176}
   - component: {fileID: 602136175}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (15)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -8981,6 +9319,168 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &608411983
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 608411984}
+  - component: {fileID: 608411988}
+  - component: {fileID: 608411987}
+  - component: {fileID: 608411986}
+  - component: {fileID: 608411985}
+  - component: {fileID: 608411989}
+  m_Layer: 10
+  m_Name: butcherFox (6)
+  m_TagString: Enemy
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &608411984
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 608411983}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 78.5, y: -10.2, z: 9.980469}
+  m_LocalScale: {x: 1.8494562, y: 1.8393868, z: 1.8393868}
+  m_Children: []
+  m_Father: {fileID: 1544685162}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &608411985
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 608411983}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 761237ccfa41e684fbc6fc9951373201, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!61 &608411986
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 608411983}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.1, y: -0.05}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 2.8, y: 2.8}
+    newSize: {x: 2.8, y: 2.8}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 1
+  serializedVersion: 2
+  m_Size: {x: 2.6, y: 2.6}
+  m_EdgeRadius: 0
+--- !u!114 &608411987
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 608411983}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b44217c3a95ebd48a0a4f9f2b707193, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  waypoint1: {fileID: 1524320361}
+  waypoint2: {fileID: 1875755997}
+  speed: 5
+  range: 15
+  mask:
+    serializedVersion: 2
+    m_Bits: 0
+--- !u!212 &608411988
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 608411983}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300000, guid: 3368e2293eb256a49a448d0b76260155, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 2.8, y: 2.8}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!114 &608411989
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 608411983}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad9e85376a597504589033008ffc1c55, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bullet: {fileID: 1579406540}
 --- !u!1 &623564319
 GameObject:
   m_ObjectHideFlags: 0
@@ -8992,7 +9492,7 @@ GameObject:
   - component: {fileID: 623564322}
   - component: {fileID: 623564321}
   - component: {fileID: 623564320}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (44)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -9100,7 +9600,7 @@ GameObject:
   - component: {fileID: 630606016}
   - component: {fileID: 630606015}
   - component: {fileID: 630606014}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (106)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -9208,7 +9708,7 @@ GameObject:
   - component: {fileID: 633739923}
   - component: {fileID: 633739922}
   - component: {fileID: 633739921}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (37)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -9316,7 +9816,7 @@ GameObject:
   - component: {fileID: 653154394}
   - component: {fileID: 653154393}
   - component: {fileID: 653154392}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (59)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -9424,7 +9924,7 @@ GameObject:
   - component: {fileID: 654406112}
   - component: {fileID: 654406114}
   - component: {fileID: 654406113}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (131)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -9532,7 +10032,7 @@ GameObject:
   - component: {fileID: 654782800}
   - component: {fileID: 654782802}
   - component: {fileID: 654782801}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (72)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -9640,7 +10140,7 @@ GameObject:
   - component: {fileID: 659529689}
   - component: {fileID: 659529688}
   - component: {fileID: 659529687}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (26)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -9748,7 +10248,7 @@ GameObject:
   - component: {fileID: 660100162}
   - component: {fileID: 660100161}
   - component: {fileID: 660100160}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (100)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -9856,7 +10356,7 @@ GameObject:
   - component: {fileID: 673600562}
   - component: {fileID: 673600561}
   - component: {fileID: 673600560}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (61)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -9964,7 +10464,7 @@ GameObject:
   - component: {fileID: 674822523}
   - component: {fileID: 674822522}
   - component: {fileID: 674822521}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (107)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -10072,7 +10572,7 @@ GameObject:
   - component: {fileID: 681952308}
   - component: {fileID: 681952307}
   - component: {fileID: 681952306}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (109)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -10180,7 +10680,7 @@ GameObject:
   - component: {fileID: 695413606}
   - component: {fileID: 695413608}
   - component: {fileID: 695413607}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (1)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -10288,7 +10788,7 @@ GameObject:
   - component: {fileID: 698537681}
   - component: {fileID: 698537680}
   - component: {fileID: 698537679}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (82)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -10396,7 +10896,7 @@ GameObject:
   - component: {fileID: 707391985}
   - component: {fileID: 707391987}
   - component: {fileID: 707391986}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (130)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -10504,7 +11004,7 @@ GameObject:
   - component: {fileID: 721705748}
   - component: {fileID: 721705747}
   - component: {fileID: 721705746}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (89)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -10612,7 +11112,7 @@ GameObject:
   - component: {fileID: 722923157}
   - component: {fileID: 722923156}
   - component: {fileID: 722923155}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (12)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -10720,7 +11220,7 @@ GameObject:
   - component: {fileID: 732620538}
   - component: {fileID: 732620537}
   - component: {fileID: 732620536}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (121)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -10828,7 +11328,7 @@ GameObject:
   - component: {fileID: 755089285}
   - component: {fileID: 755089287}
   - component: {fileID: 755089286}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (52)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -10936,7 +11436,7 @@ GameObject:
   - component: {fileID: 780602691}
   - component: {fileID: 780602693}
   - component: {fileID: 780602692}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (75)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -11044,7 +11544,7 @@ GameObject:
   - component: {fileID: 788426718}
   - component: {fileID: 788426717}
   - component: {fileID: 788426716}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (62)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -11152,7 +11652,7 @@ GameObject:
   - component: {fileID: 803013993}
   - component: {fileID: 803013992}
   - component: {fileID: 803013991}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (118)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -11260,7 +11760,7 @@ GameObject:
   - component: {fileID: 812813941}
   - component: {fileID: 812813940}
   - component: {fileID: 812813939}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (14)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -11369,7 +11869,7 @@ GameObject:
   - component: {fileID: 818297482}
   - component: {fileID: 818297481}
   - component: {fileID: 818297483}
-  m_Layer: 10
+  m_Layer: 9
   m_Name: kyllingTwo (11)
   m_TagString: hostages
   m_Icon: {fileID: 0}
@@ -11496,7 +11996,7 @@ GameObject:
   - component: {fileID: 822920780}
   - component: {fileID: 822920779}
   - component: {fileID: 822920778}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (111)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -11604,7 +12104,7 @@ GameObject:
   - component: {fileID: 830668160}
   - component: {fileID: 830668162}
   - component: {fileID: 830668161}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (48)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -11712,7 +12212,7 @@ GameObject:
   - component: {fileID: 832212549}
   - component: {fileID: 832212551}
   - component: {fileID: 832212550}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (4)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -11820,7 +12320,7 @@ GameObject:
   - component: {fileID: 837927527}
   - component: {fileID: 837927526}
   - component: {fileID: 837927525}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -11928,7 +12428,7 @@ GameObject:
   - component: {fileID: 845168238}
   - component: {fileID: 845168240}
   - component: {fileID: 845168239}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (5)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -12036,7 +12536,7 @@ GameObject:
   - component: {fileID: 847757789}
   - component: {fileID: 847757788}
   - component: {fileID: 847757787}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (71)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -12144,7 +12644,7 @@ GameObject:
   - component: {fileID: 855910536}
   - component: {fileID: 855910535}
   - component: {fileID: 855910534}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (127)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -12252,7 +12752,7 @@ GameObject:
   - component: {fileID: 859899248}
   - component: {fileID: 859899247}
   - component: {fileID: 859899246}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (94)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -12360,7 +12860,7 @@ GameObject:
   - component: {fileID: 892970344}
   - component: {fileID: 892970346}
   - component: {fileID: 892970345}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (42)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -12468,7 +12968,7 @@ GameObject:
   - component: {fileID: 909073136}
   - component: {fileID: 909073135}
   - component: {fileID: 909073134}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (50)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -12576,7 +13076,7 @@ GameObject:
   - component: {fileID: 914611795}
   - component: {fileID: 914611797}
   - component: {fileID: 914611796}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (66)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -12684,7 +13184,7 @@ GameObject:
   - component: {fileID: 947855558}
   - component: {fileID: 947855557}
   - component: {fileID: 947855556}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (4)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -12792,7 +13292,7 @@ GameObject:
   - component: {fileID: 949810071}
   - component: {fileID: 949810073}
   - component: {fileID: 949810072}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (134)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -12900,7 +13400,7 @@ GameObject:
   - component: {fileID: 972499510}
   - component: {fileID: 972499512}
   - component: {fileID: 972499511}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (59)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -13006,7 +13506,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 973257402}
-  m_Layer: 12
+  m_Layer: 11
   m_Name: Wavepoint1
   m_TagString: Untagged
   m_Icon: {fileID: 5132851093641282708, guid: 0000000000000000d000000000000000, type: 0}
@@ -13038,7 +13538,7 @@ GameObject:
   - component: {fileID: 990741237}
   - component: {fileID: 990741236}
   - component: {fileID: 990741235}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (81)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -13146,7 +13646,7 @@ GameObject:
   - component: {fileID: 997912384}
   - component: {fileID: 997912383}
   - component: {fileID: 997912382}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (77)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -13254,7 +13754,7 @@ GameObject:
   - component: {fileID: 999557628}
   - component: {fileID: 999557627}
   - component: {fileID: 999557626}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (16)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -13362,7 +13862,7 @@ GameObject:
   - component: {fileID: 1010024674}
   - component: {fileID: 1010024676}
   - component: {fileID: 1010024675}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (67)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -13470,7 +13970,7 @@ GameObject:
   - component: {fileID: 1015921884}
   - component: {fileID: 1015921883}
   - component: {fileID: 1015921882}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (63)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -13578,7 +14078,7 @@ GameObject:
   - component: {fileID: 1048154361}
   - component: {fileID: 1048154360}
   - component: {fileID: 1048154359}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (48)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -13686,7 +14186,7 @@ GameObject:
   - component: {fileID: 1055824645}
   - component: {fileID: 1055824644}
   - component: {fileID: 1055824643}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (87)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -13794,7 +14294,7 @@ GameObject:
   - component: {fileID: 1056183942}
   - component: {fileID: 1056183941}
   - component: {fileID: 1056183940}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (47)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -13902,7 +14402,7 @@ GameObject:
   - component: {fileID: 1061313007}
   - component: {fileID: 1061313009}
   - component: {fileID: 1061313008}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (16)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -14010,7 +14510,7 @@ GameObject:
   - component: {fileID: 1069438460}
   - component: {fileID: 1069438459}
   - component: {fileID: 1069438458}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (91)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -14118,7 +14618,7 @@ GameObject:
   - component: {fileID: 1083071629}
   - component: {fileID: 1083071631}
   - component: {fileID: 1083071630}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (58)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -14226,7 +14726,7 @@ GameObject:
   - component: {fileID: 1089104802}
   - component: {fileID: 1089104801}
   - component: {fileID: 1089104800}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (69)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -14334,7 +14834,7 @@ GameObject:
   - component: {fileID: 1102766604}
   - component: {fileID: 1102766606}
   - component: {fileID: 1102766605}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (73)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -14442,7 +14942,7 @@ GameObject:
   - component: {fileID: 1126768709}
   - component: {fileID: 1126768711}
   - component: {fileID: 1126768710}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (37)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -14550,7 +15050,7 @@ GameObject:
   - component: {fileID: 1129718069}
   - component: {fileID: 1129718068}
   - component: {fileID: 1129718067}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (110)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -14658,7 +15158,7 @@ GameObject:
   - component: {fileID: 1137919743}
   - component: {fileID: 1137919742}
   - component: {fileID: 1137919741}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (28)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -14766,7 +15266,7 @@ GameObject:
   - component: {fileID: 1138809325}
   - component: {fileID: 1138809324}
   - component: {fileID: 1138809323}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (39)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -14874,7 +15374,7 @@ GameObject:
   - component: {fileID: 1142601679}
   - component: {fileID: 1142601681}
   - component: {fileID: 1142601680}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (51)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -14982,7 +15482,7 @@ GameObject:
   - component: {fileID: 1154336554}
   - component: {fileID: 1154336556}
   - component: {fileID: 1154336555}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (7)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -15090,7 +15590,7 @@ GameObject:
   - component: {fileID: 1162344615}
   - component: {fileID: 1162344617}
   - component: {fileID: 1162344616}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (129)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -15196,7 +15696,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1177321393}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: framewall
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -15322,7 +15822,7 @@ GameObject:
   - component: {fileID: 1184487580}
   - component: {fileID: 1184487582}
   - component: {fileID: 1184487581}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (12)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -15430,7 +15930,7 @@ GameObject:
   - component: {fileID: 1217774334}
   - component: {fileID: 1217774336}
   - component: {fileID: 1217774335}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (32)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -15538,7 +16038,7 @@ GameObject:
   - component: {fileID: 1234634981}
   - component: {fileID: 1234634980}
   - component: {fileID: 1234634979}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (45)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -15646,7 +16146,7 @@ GameObject:
   - component: {fileID: 1242072102}
   - component: {fileID: 1242072104}
   - component: {fileID: 1242072103}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (9)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -15754,7 +16254,7 @@ GameObject:
   - component: {fileID: 1251078196}
   - component: {fileID: 1251078195}
   - component: {fileID: 1251078194}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (38)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -15862,7 +16362,7 @@ GameObject:
   - component: {fileID: 1260944145}
   - component: {fileID: 1260944147}
   - component: {fileID: 1260944146}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (56)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -15970,7 +16470,7 @@ GameObject:
   - component: {fileID: 1261794521}
   - component: {fileID: 1261794520}
   - component: {fileID: 1261794519}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (101)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -16078,7 +16578,7 @@ GameObject:
   - component: {fileID: 1276801128}
   - component: {fileID: 1276801127}
   - component: {fileID: 1276801126}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (66)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -16186,7 +16686,7 @@ GameObject:
   - component: {fileID: 1306810462}
   - component: {fileID: 1306810461}
   - component: {fileID: 1306810460}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (20)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -16294,7 +16794,7 @@ GameObject:
   - component: {fileID: 1307920712}
   - component: {fileID: 1307920711}
   - component: {fileID: 1307920710}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (46)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -16402,7 +16902,7 @@ GameObject:
   - component: {fileID: 1308140958}
   - component: {fileID: 1308140960}
   - component: {fileID: 1308140959}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (28)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -16510,7 +17010,7 @@ GameObject:
   - component: {fileID: 1320434368}
   - component: {fileID: 1320434367}
   - component: {fileID: 1320434366}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (25)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -16618,7 +17118,7 @@ GameObject:
   - component: {fileID: 1321864398}
   - component: {fileID: 1321864397}
   - component: {fileID: 1321864396}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (52)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -16726,7 +17226,7 @@ GameObject:
   - component: {fileID: 1347238141}
   - component: {fileID: 1347238140}
   - component: {fileID: 1347238139}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (1)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -16834,7 +17334,7 @@ GameObject:
   - component: {fileID: 1350843319}
   - component: {fileID: 1350843318}
   - component: {fileID: 1350843317}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (84)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -16942,7 +17442,7 @@ GameObject:
   - component: {fileID: 1361089455}
   - component: {fileID: 1361089457}
   - component: {fileID: 1361089456}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (65)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -17048,7 +17548,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1389724800}
-  m_Layer: 12
+  m_Layer: 11
   m_Name: Wavepoint5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17080,7 +17580,7 @@ GameObject:
   - component: {fileID: 1403999197}
   - component: {fileID: 1403999196}
   - component: {fileID: 1403999195}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (19)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -17188,7 +17688,7 @@ GameObject:
   - component: {fileID: 1406095986}
   - component: {fileID: 1406095985}
   - component: {fileID: 1406095984}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (79)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -17302,7 +17802,7 @@ GameObject:
   - component: {fileID: 1411944179}
   - component: {fileID: 1411944178}
   - component: {fileID: 1411944186}
-  m_Layer: 10
+  m_Layer: 9
   m_Name: chicken
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -17502,7 +18002,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1418166891}
-  m_Layer: 12
+  m_Layer: 11
   m_Name: Wavepoint2
   m_TagString: Untagged
   m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
@@ -17532,7 +18032,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1421659740}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: smallwall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17640,7 +18140,7 @@ GameObject:
   - component: {fileID: 1422055451}
   - component: {fileID: 1422055453}
   - component: {fileID: 1422055452}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (20)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -17750,7 +18250,7 @@ GameObject:
   - component: {fileID: 1423400808}
   - component: {fileID: 1423400809}
   - component: {fileID: 1423400811}
-  m_Layer: 9
+  m_Layer: 8
   m_Name: egg
   m_TagString: hostages
   m_Icon: {fileID: 0}
@@ -17881,7 +18381,7 @@ GameObject:
   - component: {fileID: 1446110446}
   - component: {fileID: 1446110448}
   - component: {fileID: 1446110447}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (36)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -17989,7 +18489,7 @@ GameObject:
   - component: {fileID: 1450260108}
   - component: {fileID: 1450260110}
   - component: {fileID: 1450260109}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (70)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -18097,7 +18597,7 @@ GameObject:
   - component: {fileID: 1460420654}
   - component: {fileID: 1460420653}
   - component: {fileID: 1460420652}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (17)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -18205,7 +18705,7 @@ GameObject:
   - component: {fileID: 1465359164}
   - component: {fileID: 1465359163}
   - component: {fileID: 1465359162}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (21)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -18313,7 +18813,7 @@ GameObject:
   - component: {fileID: 1477782152}
   - component: {fileID: 1477782151}
   - component: {fileID: 1477782150}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (116)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -18421,7 +18921,7 @@ GameObject:
   - component: {fileID: 1478668098}
   - component: {fileID: 1478668100}
   - component: {fileID: 1478668099}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (136)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -18529,7 +19029,7 @@ GameObject:
   - component: {fileID: 1481076681}
   - component: {fileID: 1481076683}
   - component: {fileID: 1481076682}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (129)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -18673,7 +19173,7 @@ GameObject:
   - component: {fileID: 1511946304}
   - component: {fileID: 1511946303}
   - component: {fileID: 1511946302}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (105)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -18781,7 +19281,7 @@ GameObject:
   - component: {fileID: 1516273615}
   - component: {fileID: 1516273614}
   - component: {fileID: 1516273613}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (51)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -18887,7 +19387,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1524320361}
-  m_Layer: 12
+  m_Layer: 11
   m_Name: Wavepoint7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18919,7 +19419,7 @@ GameObject:
   - component: {fileID: 1526407003}
   - component: {fileID: 1526407005}
   - component: {fileID: 1526407004}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (44)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -19027,7 +19527,7 @@ GameObject:
   - component: {fileID: 1527249060}
   - component: {fileID: 1527249059}
   - component: {fileID: 1527249058}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (32)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -19135,7 +19635,7 @@ GameObject:
   - component: {fileID: 1530106515}
   - component: {fileID: 1530106514}
   - component: {fileID: 1530106513}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (23)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -19243,7 +19743,7 @@ GameObject:
   - component: {fileID: 1544685162}
   - component: {fileID: 1544685164}
   - component: {fileID: 1544685163}
-  m_Layer: 11
+  m_Layer: 10
   m_Name: Enemy
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -19262,9 +19762,10 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 579337669}
-  - {fileID: 2117063666}
-  - {fileID: 1920404857}
-  - {fileID: 1899320908}
+  - {fileID: 579511645}
+  - {fileID: 600954787}
+  - {fileID: 608411984}
+  - {fileID: 1579406543}
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -19337,6 +19838,140 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!1 &1579406540
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1579406543}
+  - component: {fileID: 1579406542}
+  - component: {fileID: 1579406541}
+  - component: {fileID: 1579406545}
+  - component: {fileID: 1579406544}
+  m_Layer: 13
+  m_Name: butcherKnife
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1579406541
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1579406540}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91359992c721be1408c9314d83a93057, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loseText: {fileID: 0}
+--- !u!212 &1579406542
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1579406540}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300000, guid: f4679997c15888b4ebdb627c4b19424a, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 9.6, y: 4.8}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!4 &1579406543
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1579406540}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 299.8, y: 2.2, z: 9.980469}
+  m_LocalScale: {x: 0.2593658, y: 0.2593658, z: 0.2593658}
+  m_Children: []
+  m_Father: {fileID: 1544685162}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!70 &1579406544
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1579406540}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.0000019073486, y: 0}
+  m_Size: {x: 10.5, y: 2.8}
+  m_Direction: 1
+--- !u!50 &1579406545
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1579406540}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 1
+  m_Constraints: 0
 --- !u!1 &1584903541
 GameObject:
   m_ObjectHideFlags: 0
@@ -19348,7 +19983,7 @@ GameObject:
   - component: {fileID: 1584903544}
   - component: {fileID: 1584903543}
   - component: {fileID: 1584903542}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (13)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -19454,7 +20089,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1591856808}
-  m_Layer: 12
+  m_Layer: 11
   m_Name: Wavepoint4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19486,7 +20121,7 @@ GameObject:
   - component: {fileID: 1609509704}
   - component: {fileID: 1609509706}
   - component: {fileID: 1609509705}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (14)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -19594,7 +20229,7 @@ GameObject:
   - component: {fileID: 1610038723}
   - component: {fileID: 1610038725}
   - component: {fileID: 1610038724}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (50)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -19702,7 +20337,7 @@ GameObject:
   - component: {fileID: 1610212250}
   - component: {fileID: 1610212252}
   - component: {fileID: 1610212251}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (135)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -19810,7 +20445,7 @@ GameObject:
   - component: {fileID: 1610440376}
   - component: {fileID: 1610440375}
   - component: {fileID: 1610440374}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (68)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -19918,7 +20553,7 @@ GameObject:
   - component: {fileID: 1626743327}
   - component: {fileID: 1626743326}
   - component: {fileID: 1626743325}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (10)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -20026,7 +20661,7 @@ GameObject:
   - component: {fileID: 1626917043}
   - component: {fileID: 1626917045}
   - component: {fileID: 1626917044}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (62)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -20134,7 +20769,7 @@ GameObject:
   - component: {fileID: 1635887094}
   - component: {fileID: 1635887093}
   - component: {fileID: 1635887092}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (29)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -20242,7 +20877,7 @@ GameObject:
   - component: {fileID: 1652923557}
   - component: {fileID: 1652923556}
   - component: {fileID: 1652923555}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (122)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -20350,7 +20985,7 @@ GameObject:
   - component: {fileID: 1668302836}
   - component: {fileID: 1668302835}
   - component: {fileID: 1668302834}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (3)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -20458,7 +21093,7 @@ GameObject:
   - component: {fileID: 1680368023}
   - component: {fileID: 1680368025}
   - component: {fileID: 1680368024}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (74)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -20566,7 +21201,7 @@ GameObject:
   - component: {fileID: 1682901987}
   - component: {fileID: 1682901989}
   - component: {fileID: 1682901988}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (18)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -20674,7 +21309,7 @@ GameObject:
   - component: {fileID: 1700975207}
   - component: {fileID: 1700975206}
   - component: {fileID: 1700975205}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (54)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -20782,7 +21417,7 @@ GameObject:
   - component: {fileID: 1701588355}
   - component: {fileID: 1701588357}
   - component: {fileID: 1701588356}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (53)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -20890,7 +21525,7 @@ GameObject:
   - component: {fileID: 1704625661}
   - component: {fileID: 1704625663}
   - component: {fileID: 1704625662}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (128)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -20996,7 +21631,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1712973866}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21080,7 +21715,7 @@ GameObject:
   - component: {fileID: 1719766922}
   - component: {fileID: 1719766924}
   - component: {fileID: 1719766923}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (130)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -21188,7 +21823,7 @@ GameObject:
   - component: {fileID: 1733370630}
   - component: {fileID: 1733370632}
   - component: {fileID: 1733370631}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (23)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -21296,7 +21931,7 @@ GameObject:
   - component: {fileID: 1737805787}
   - component: {fileID: 1737805786}
   - component: {fileID: 1737805785}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (24)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -21404,7 +22039,7 @@ GameObject:
   - component: {fileID: 1746949673}
   - component: {fileID: 1746949675}
   - component: {fileID: 1746949674}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (35)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -21512,7 +22147,7 @@ GameObject:
   - component: {fileID: 1748712034}
   - component: {fileID: 1748712036}
   - component: {fileID: 1748712035}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (128)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -21620,7 +22255,7 @@ GameObject:
   - component: {fileID: 1750628426}
   - component: {fileID: 1750628428}
   - component: {fileID: 1750628427}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (3)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -21728,7 +22363,7 @@ GameObject:
   - component: {fileID: 1756124241}
   - component: {fileID: 1756124240}
   - component: {fileID: 1756124239}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (31)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -21836,7 +22471,7 @@ GameObject:
   - component: {fileID: 1782637601}
   - component: {fileID: 1782637600}
   - component: {fileID: 1782637599}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (27)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -21944,7 +22579,7 @@ GameObject:
   - component: {fileID: 1792990375}
   - component: {fileID: 1792990374}
   - component: {fileID: 1792990373}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (85)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -22052,7 +22687,7 @@ GameObject:
   - component: {fileID: 1807281077}
   - component: {fileID: 1807281079}
   - component: {fileID: 1807281078}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (135)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -22097,7 +22732,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 4.5, y: 4.5}
+  m_Size: {x: 5, y: 5}
   m_EdgeRadius: 0
 --- !u!212 &1807281079
 SpriteRenderer:
@@ -22161,7 +22796,7 @@ GameObject:
   - component: {fileID: 1810907280}
   - component: {fileID: 1810907279}
   - component: {fileID: 1810907281}
-  m_Layer: 10
+  m_Layer: 9
   m_Name: kyllingTwo (10)
   m_TagString: hostages
   m_Icon: {fileID: 0}
@@ -22288,7 +22923,7 @@ GameObject:
   - component: {fileID: 1811855402}
   - component: {fileID: 1811855401}
   - component: {fileID: 1811855400}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (7)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -22396,7 +23031,7 @@ GameObject:
   - component: {fileID: 1813250585}
   - component: {fileID: 1813250584}
   - component: {fileID: 1813250583}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (43)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -22504,7 +23139,7 @@ GameObject:
   - component: {fileID: 1814683502}
   - component: {fileID: 1814683501}
   - component: {fileID: 1814683500}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (5)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -22612,7 +23247,7 @@ GameObject:
   - component: {fileID: 1821001949}
   - component: {fileID: 1821001948}
   - component: {fileID: 1821001947}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (74)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -22720,7 +23355,7 @@ GameObject:
   - component: {fileID: 1824855267}
   - component: {fileID: 1824855266}
   - component: {fileID: 1824855265}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (35)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -22828,7 +23463,7 @@ GameObject:
   - component: {fileID: 1826503675}
   - component: {fileID: 1826503674}
   - component: {fileID: 1826503673}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (11)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -22934,7 +23569,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1829710345}
-  m_Layer: 12
+  m_Layer: 11
   m_Name: Wavepoint3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22966,7 +23601,7 @@ GameObject:
   - component: {fileID: 1830501755}
   - component: {fileID: 1830501757}
   - component: {fileID: 1830501756}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (33)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -23074,7 +23709,7 @@ GameObject:
   - component: {fileID: 1847203297}
   - component: {fileID: 1847203296}
   - component: {fileID: 1847203295}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (57)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -23182,7 +23817,7 @@ GameObject:
   - component: {fileID: 1853992534}
   - component: {fileID: 1853992536}
   - component: {fileID: 1853992535}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (34)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -23290,7 +23925,7 @@ GameObject:
   - component: {fileID: 1854128427}
   - component: {fileID: 1854128429}
   - component: {fileID: 1854128428}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (132)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -23398,7 +24033,7 @@ GameObject:
   - component: {fileID: 1854657961}
   - component: {fileID: 1854657960}
   - component: {fileID: 1854657959}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (30)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -23506,7 +24141,7 @@ GameObject:
   - component: {fileID: 1858434839}
   - component: {fileID: 1858434841}
   - component: {fileID: 1858434840}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (13)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -23614,7 +24249,7 @@ GameObject:
   - component: {fileID: 1860019034}
   - component: {fileID: 1860019033}
   - component: {fileID: 1860019032}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (75)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -23722,7 +24357,7 @@ GameObject:
   - component: {fileID: 1860195906}
   - component: {fileID: 1860195908}
   - component: {fileID: 1860195907}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (71)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -23828,7 +24463,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1875755997}
-  m_Layer: 12
+  m_Layer: 11
   m_Name: Wavepoint8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24005,154 +24640,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1884053884}
   m_CullTransparentMesh: 0
---- !u!1 &1899320907
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1899320908}
-  - component: {fileID: 1899320911}
-  - component: {fileID: 1899320910}
-  - component: {fileID: 1899320909}
-  - component: {fileID: 1899320912}
-  m_Layer: 11
-  m_Name: butcherFox (3)
-  m_TagString: Enemy
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1899320908
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1899320907}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 78.6, y: -10.5, z: 9.980469}
-  m_LocalScale: {x: 1.8494562, y: 1.8393868, z: 1.8393868}
-  m_Children: []
-  m_Father: {fileID: 1544685162}
-  m_RootOrder: 3
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!61 &1899320909
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1899320907}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0.1, y: -0.05}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 2.8, y: 2.8}
-    newSize: {x: 2.8, y: 2.8}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 1
-  serializedVersion: 2
-  m_Size: {x: 2.6, y: 2.6}
-  m_EdgeRadius: 0
---- !u!114 &1899320910
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1899320907}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2b44217c3a95ebd48a0a4f9f2b707193, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  waypoint1: {fileID: 1524320361}
-  waypoint2: {fileID: 1875755997}
-  speed: 5
-  range: 15
-  mask:
-    serializedVersion: 2
-    m_Bits: 0
---- !u!212 &1899320911
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1899320907}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 3368e2293eb256a49a448d0b76260155, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 2.8, y: 2.8}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
---- !u!95 &1899320912
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1899320907}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: c472a3893de2a414bbd45a04d8cb57ff, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1914744301
 GameObject:
   m_ObjectHideFlags: 0
@@ -24164,7 +24651,7 @@ GameObject:
   - component: {fileID: 1914744304}
   - component: {fileID: 1914744303}
   - component: {fileID: 1914744302}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (60)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -24272,7 +24759,7 @@ GameObject:
   - component: {fileID: 1917031852}
   - component: {fileID: 1917031854}
   - component: {fileID: 1917031853}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (57)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -24380,7 +24867,7 @@ GameObject:
   - component: {fileID: 1917525951}
   - component: {fileID: 1917525953}
   - component: {fileID: 1917525952}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (133)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -24477,154 +24964,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &1920404856
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1920404857}
-  - component: {fileID: 1920404860}
-  - component: {fileID: 1920404859}
-  - component: {fileID: 1920404858}
-  - component: {fileID: 1920404861}
-  m_Layer: 11
-  m_Name: butcherFox (2)
-  m_TagString: Enemy
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1920404857
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1920404856}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 4.3, y: -10.5, z: 9.980469}
-  m_LocalScale: {x: 1.8494562, y: 1.8393868, z: 1.8393868}
-  m_Children: []
-  m_Father: {fileID: 1544685162}
-  m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!61 &1920404858
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1920404856}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0.1, y: -0.05}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 2.8, y: 2.8}
-    newSize: {x: 2.8, y: 2.8}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 1
-  serializedVersion: 2
-  m_Size: {x: 2.6, y: 2.6}
-  m_EdgeRadius: 0
---- !u!114 &1920404859
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1920404856}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2b44217c3a95ebd48a0a4f9f2b707193, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  waypoint1: {fileID: 1389724800}
-  waypoint2: {fileID: 340800879}
-  speed: 5
-  range: 15
-  mask:
-    serializedVersion: 2
-    m_Bits: 0
---- !u!212 &1920404860
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1920404856}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 3368e2293eb256a49a448d0b76260155, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 2.8, y: 2.8}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
---- !u!95 &1920404861
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1920404856}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 57f62edf3ddbae246b721966dd395fe7, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1946506278
 GameObject:
   m_ObjectHideFlags: 0
@@ -24737,7 +25076,7 @@ GameObject:
   - component: {fileID: 1963315313}
   - component: {fileID: 1963315312}
   - component: {fileID: 1963315311}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (15)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -24845,7 +25184,7 @@ GameObject:
   - component: {fileID: 1981689825}
   - component: {fileID: 1981689824}
   - component: {fileID: 1981689823}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (98)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -24953,7 +25292,7 @@ GameObject:
   - component: {fileID: 2007061688}
   - component: {fileID: 2007061690}
   - component: {fileID: 2007061689}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (61)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -25061,7 +25400,7 @@ GameObject:
   - component: {fileID: 2015023155}
   - component: {fileID: 2015023154}
   - component: {fileID: 2015023153}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (65)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -25169,7 +25508,7 @@ GameObject:
   - component: {fileID: 2020662335}
   - component: {fileID: 2020662337}
   - component: {fileID: 2020662336}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (8)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -25277,7 +25616,7 @@ GameObject:
   - component: {fileID: 2039439920}
   - component: {fileID: 2039439922}
   - component: {fileID: 2039439921}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (76)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -25385,7 +25724,7 @@ GameObject:
   - component: {fileID: 2045754450}
   - component: {fileID: 2045754449}
   - component: {fileID: 2045754448}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (119)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -25493,7 +25832,7 @@ GameObject:
   - component: {fileID: 2054903741}
   - component: {fileID: 2054903743}
   - component: {fileID: 2054903742}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (49)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -25601,7 +25940,7 @@ GameObject:
   - component: {fileID: 2056678797}
   - component: {fileID: 2056678796}
   - component: {fileID: 2056678795}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (78)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -25709,7 +26048,7 @@ GameObject:
   - component: {fileID: 2062087138}
   - component: {fileID: 2062087140}
   - component: {fileID: 2062087139}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (55)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -25817,7 +26156,7 @@ GameObject:
   - component: {fileID: 2066470561}
   - component: {fileID: 2066470563}
   - component: {fileID: 2066470562}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (132)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -25925,7 +26264,7 @@ GameObject:
   - component: {fileID: 2072630566}
   - component: {fileID: 2072630568}
   - component: {fileID: 2072630567}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (27)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -26033,7 +26372,7 @@ GameObject:
   - component: {fileID: 2081719725}
   - component: {fileID: 2081719727}
   - component: {fileID: 2081719726}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (24)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -26141,7 +26480,7 @@ GameObject:
   - component: {fileID: 2093699599}
   - component: {fileID: 2093699598}
   - component: {fileID: 2093699597}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (36)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -26249,7 +26588,7 @@ GameObject:
   - component: {fileID: 2100261975}
   - component: {fileID: 2100261974}
   - component: {fileID: 2100261973}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (40)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -26449,7 +26788,7 @@ GameObject:
   - component: {fileID: 2109108981}
   - component: {fileID: 2109108983}
   - component: {fileID: 2109108982}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (17)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -26546,154 +26885,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &2117063665
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 2117063666}
-  - component: {fileID: 2117063669}
-  - component: {fileID: 2117063668}
-  - component: {fileID: 2117063667}
-  - component: {fileID: 2117063670}
-  m_Layer: 11
-  m_Name: butcherFox (1)
-  m_TagString: Enemy
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &2117063666
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2117063665}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -11, y: 29.6, z: 9.980469}
-  m_LocalScale: {x: 1.8494562, y: 1.8393868, z: 1.8393868}
-  m_Children: []
-  m_Father: {fileID: 1544685162}
-  m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!61 &2117063667
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2117063665}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0.1, y: -0.05}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 2.8, y: 2.8}
-    newSize: {x: 2.8, y: 2.8}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 1
-  serializedVersion: 2
-  m_Size: {x: 2.6, y: 2.6}
-  m_EdgeRadius: 0
---- !u!114 &2117063668
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2117063665}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2b44217c3a95ebd48a0a4f9f2b707193, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  waypoint1: {fileID: 1829710345}
-  waypoint2: {fileID: 1591856808}
-  speed: 5
-  range: 15
-  mask:
-    serializedVersion: 2
-    m_Bits: 0
---- !u!212 &2117063669
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2117063665}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 3368e2293eb256a49a448d0b76260155, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 2.8, y: 2.8}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
---- !u!95 &2117063670
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2117063665}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: fc96af96302caa8458fca82c14938c35, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &2121769805
 GameObject:
   m_ObjectHideFlags: 0
@@ -26705,7 +26896,7 @@ GameObject:
   - component: {fileID: 2121769808}
   - component: {fileID: 2121769807}
   - component: {fileID: 2121769806}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (83)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -26813,7 +27004,7 @@ GameObject:
   - component: {fileID: 2129039471}
   - component: {fileID: 2129039473}
   - component: {fileID: 2129039472}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: wall (31)
   m_TagString: wall
   m_Icon: {fileID: 0}
@@ -26921,7 +27112,7 @@ GameObject:
   - component: {fileID: 2140724430}
   - component: {fileID: 2140724429}
   - component: {fileID: 2140724428}
-  m_Layer: 13
+  m_Layer: 12
   m_Name: depositphotos_145989369-stock-illustration-pixel-brick-wall (58)
   m_TagString: wall
   m_Icon: {fileID: 0}
