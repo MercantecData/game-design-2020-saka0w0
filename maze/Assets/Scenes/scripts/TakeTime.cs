@@ -33,18 +33,9 @@ public class TakeTime : MonoBehaviour
 
             if (countDownNumber == 0) 
             {
-                loseText.text = "You didn't save the hostages!\n Game will restart in 10 sek.";
-                StartCoroutine("stopGameToRestart");
+                loseText.text = "You didn't save the hostages!";
+                Time.timeScale = 0;
             }
         }
-    }
-    IEnumerator stopGameToRestart()
-    {
-        Time.timeScale = 0;
-        float pauseTime = Time.realtimeSinceStartup + 10;
-        while (Time.realtimeSinceStartup < pauseTime)
-            yield return 0;
-        Time.timeScale = 1;
-        SceneManager.LoadScene("SampleScene");
     }
 }

@@ -24,28 +24,28 @@ public class Player : MonoBehaviour
             countHostage.text = hostage.ToString();
             Destroy(myObject.gameObject);
 
-            if (hostage == 6) 
+            if (hostage == 2)
             {
-                loseText.text = "You saved all the hostages!\n Game will restart in 10 sek.";
-                StartCoroutine("stopGameToRestart");
+                loseText.text = "You saved all the hostages!\n level 2 will start in 5 sek. if you dont want to play this level please press new game";
+                StartCoroutine("newLevel");
 
             }
-            
+
         }
-        if (myObject.transform.tag == "Enemy") 
+        if (myObject.transform.tag == "Enemy")
         {
 
-            loseText.text = "You lost! \n The butcher caught you!\n Game will restart in 10 sek.";
-            StartCoroutine("stopGameToRestart");
+            loseText.text = "You lost! \n The butcher caught you!";
+            Time.timeScale = 0;
         }
-    }
-    IEnumerator stopGameToRestart()
-    {
-        Time.timeScale = 0;
-        float pauseTime = Time.realtimeSinceStartup + 10;
-        while (Time.realtimeSinceStartup < pauseTime)
-            yield return 0;
-        Time.timeScale = 1;
-        SceneManager.LoadScene("SampleScene");
+        IEnumerator newLevel()
+        {
+            Time.timeScale = 0;
+            float pauseTime = Time.realtimeSinceStartup + 5;
+            while (Time.realtimeSinceStartup < pauseTime)
+                yield return 0;
+            Time.timeScale = 1;
+            SceneManager.LoadScene("Level2");
+        }
     }
 }
