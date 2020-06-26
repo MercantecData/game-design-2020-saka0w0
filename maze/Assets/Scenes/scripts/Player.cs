@@ -24,10 +24,10 @@ public class Player : MonoBehaviour
             countHostage.text = hostage.ToString();
             Destroy(myObject.gameObject);
 
-            if (hostage == 2)
+            if (hostage == 6)
             {
                 loseText.text = "You saved all the hostages!\n level 2 will start in 5 sek. if you dont want to play this level please press new game";
-                StartCoroutine("newLevel");
+                StartCoroutine(newLevel());
 
             }
 

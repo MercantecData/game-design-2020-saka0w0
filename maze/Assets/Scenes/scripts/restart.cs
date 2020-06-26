@@ -9,6 +9,7 @@ public class restart : MonoBehaviour
     public int Myscene;
     public void Restartlevel() 
     {
+        Time.timeScale = 1;
         SceneManager.LoadScene(Myscene);
     }
     public void RestartGame()
